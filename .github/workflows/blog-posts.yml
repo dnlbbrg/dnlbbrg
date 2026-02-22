@@ -1,4 +1,4 @@
-name: Update Blog Posts & YouTube Videos
+name: Update Blog Posts
 
 on:
   schedule:
@@ -25,20 +25,3 @@ jobs:
           template: "- [$title]($url) — $date$newline"
           date_format: "MMM d, yyyy"
           commit_message: "chore: update blog posts"
-
-  update-youtube-videos:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Update YouTube videos
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyx07uWVpEgQClNRz2x-gA"
-          max_post_count: 5
-          comment_tag_name: "YOUTUBE-VIDEO-LIST"
-          template: "- [$title]($url) — $date$newline"
-          date_format: "MMM d, yyyy"
-          commit_message: "chore: update YouTube videos"

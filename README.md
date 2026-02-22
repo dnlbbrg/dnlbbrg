@@ -132,11 +132,6 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEO-LIST:START -->
-<!-- YOUTUBE-VIDEO-LIST:END -->
-
 ---
 
 <details>
