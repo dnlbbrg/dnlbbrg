@@ -91,7 +91,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Home Assistant: Geräte und Automationen mit Labels, Kategorien und Bereichen organisieren](https://alles-automatisch.de/home-assistant-struktur/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-struktur) — 3030 D, YYYY
+- [Waschmaschine und Co. mit WashData in Home Assistant überwachen](https://alles-automatisch.de/washdata-haushaltsgeraete-ueberwachen/?utm_source=rss&utm_medium=rss&utm_campaign=washdata-haushaltsgeraete-ueberwachen) — 000 D, YYYY
+- [SolarEdge und Hoymiles parallel betreiben: Technische Umsetzung und Integration](https://alles-automatisch.de/solaredge-hoymiles-integration/?utm_source=rss&utm_medium=rss&utm_campaign=solaredge-hoymiles-integration) — 000 D, YYYY
+- [Home Assistant auf Proxmox installieren: Schnelle Einrichtung als VM](https://alles-automatisch.de/home-assistant-proxmox-installation-2/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-proxmox-installation-2) — 000 D, YYYY
+- [Proxmox auf Mini-PC installieren: Schritt-für-Schritt-Anleitung](https://alles-automatisch.de/proxmox-installation-mini-pc/?utm_source=rss&utm_medium=rss&utm_campaign=proxmox-installation-mini-pc) — 3030 D, YYYY
 <!-- BLOG-POST-LIST:END -->
 
 ---
