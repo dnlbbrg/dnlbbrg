@@ -11,6 +11,7 @@
 <br/>
 
 <!-- BADGES -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=dnlbbrg&color=6366F1&style=flat-square&label=Profile+Views)
 &nbsp;
 [![Website](https://img.shields.io/badge/danielboberg.de-6366F1?style=flat-square&logo=googlechrome&logoColor=white)](https://danielboberg.de)
@@ -37,11 +38,7 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 ## Tech Stack
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,redis,docker,vercel,git,github,linux,py,html,css,raspberrypi&theme=dark&perline=9">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,redis,docker,vercel,git,github,linux,py,html,css,raspberrypi&theme=light&perline=9">
-  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,redis,docker,vercel,git,github,linux,py,html,css,raspberrypi&theme=dark&perline=9" />
-</picture>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,redis,docker,vercel,git,github,linux,py,html,css,raspberrypi&theme=dark&perline=9" alt="Tech Stack" />
 </div>
 
 ---
@@ -63,30 +60,7 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 ## GitHub Stats
 
 <div align="center">
-
-<!-- Stats Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dnlbbrg&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide_border=true&bg_color=00000000&rank_icon=percentile">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dnlbbrg&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=00000000&rank_icon=percentile">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dnlbbrg&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide_border=true&bg_color=00000000&rank_icon=percentile" height="180" />
-</picture>
-&nbsp;&nbsp;
-<!-- Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dnlbbrg&theme=github-dark-dimmed&hide_border=true&background=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dnlbbrg&theme=default&hide_border=true&background=FFFFFF00">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=dnlbbrg&theme=github-dark-dimmed&hide_border=true&background=00000000" height="180" />
-</picture>
-
-<br/><br/>
-
-<!-- Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlbbrg&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlbbrg&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlbbrg&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true&bg_color=00000000" height="180" />
-</picture>
-
+  <img src="https://streak-stats.demolab.com?user=dnlbbrg&theme=transparent&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
 ---
@@ -94,11 +68,7 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 ## Trophies
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dnlbbrg&no-bg=true&no-frame=true&column=7&theme=algolia&margin-w=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=dnlbbrg&no-bg=true&no-frame=true&column=7&theme=flat&margin-w=5">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=dnlbbrg&no-bg=true&no-frame=true&column=7&theme=algolia&margin-w=5" width="100%" />
-</picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=dnlbbrg&no-bg=true&no-frame=true&column=7&theme=algolia&margin-w=5" alt="GitHub Trophies" width="100%" />
 </div>
 
 ---
@@ -106,11 +76,7 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 ## Activity Graph
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dnlbbrg&bg_color=00000000&color=adbac7&line=6366F1&point=A78BFA&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Graph">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dnlbbrg&bg_color=00000000&color=24292f&line=6366F1&point=A78BFA&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dnlbbrg&bg_color=00000000&color=adbac7&line=6366F1&point=A78BFA&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnlbbrg&bg_color=00000000&color=adbac7&line=6366F1&point=A78BFA&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -118,11 +84,7 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 ## Contribution Snake
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnlbbrg/dnlbbrg/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dnlbbrg/dnlbbrg/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/dnlbbrg/dnlbbrg/output/github-snake-dark.svg" width="100%" />
-</picture>
+  <img src="https://raw.githubusercontent.com/dnlbbrg/dnlbbrg/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
