@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=220&section=header&text=Daniel%20Boberg&fontSize=45&fontAlignY=33&desc=CTO%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Creator&descAlignY=55&descSize=17&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=220&section=header&text=Daniel%20Boberg&fontSize=45&fontAlignY=33&desc=Full%20Stack%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Photographer&descAlignY=55&descSize=17&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
 <!-- TYPING SVG -->
 <a href="https://danielboberg.de">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=28&lines=CTO+at+Octily;Full+Stack+Developer;Smart+Home+Enthusiast+%26+Educator;Published+Author+%26+Photographer;Building+cool+stuff+since+forever" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=28&lines=Full+Stack+Developer;Smart+Home+Enthusiast+%26+Educator;Published+Author+%26+Photographer;Building+cool+stuff+since+forever" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,6 @@
 
 I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who loves building things — whether it's software, smart home setups, or photo books about abandoned places.
 
-- :office: **CTO** at [Octily](https://octily.de) — building tech products
 - :computer: **Freelance Full Stack Developer** — TypeScript, React, Next.js
 - :house: **Smart Home Educator** — [alles-automatisch.de](https://alles-automatisch.de) & [YouTube](https://youtube.com/@kamerakram) (10k+ subscribers)
 - :camera: **Photographer** — specializing in Lost Places & urban exploration ([pixelgranaten.de](https://pixelgranaten.de))
@@ -58,7 +57,6 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 | :bricks: | **[Brick Storage](https://brick-storage.com)** | Free LEGO collection management & portfolio tracker with 20,000+ sets database | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://brick-storage.com) |
 | :iphone: | **[QRVisit](https://qrvisit.de)** | Free QR code generator & digital business card creator for Apple & Google Wallet | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://qrvisit.de) |
 | :camera: | **[Pixelgranaten](https://pixelgranaten.de)** | Photography blog & Lost Places documentation — online since 2010 | [![Website](https://img.shields.io/badge/Since_2010-6366F1?style=flat-square)](https://pixelgranaten.de) |
-| :shopping_cart: | **AnzeigenPilot** | Multi-user web app for managing & auto-republishing Kleinanzeigen.de listings | ![Private](https://img.shields.io/badge/Private-333?style=flat-square) |
 
 ---
 
