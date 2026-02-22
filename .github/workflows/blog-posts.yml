@@ -33,9 +33,7 @@ jobs:
       - name: Update YouTube videos
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # TODO: Replace YOUR_CHANNEL_ID with your actual YouTube channel ID
-          # Find it at: https://www.youtube.com/@kamerakram → View Page Source → search for "channelId"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyx07uWVpEgQClNRz2x-gA"
           max_post_count: 5
           comment_tag_name: "YOUTUBE-VIDEO-LIST"
           template: "- [$title]($url) — $date$newline"
