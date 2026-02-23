@@ -83,12 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Home Assistant: Geräte und Automationen mit Labels, Kategorien und Bereichen organisieren](https://alles-automatisch.de/home-assistant-struktur/) — Feb 18, 2026
-- [Waschmaschine und Co. mit WashData in Home Assistant überwachen](https://alles-automatisch.de/washdata-haushaltsgeraete-ueberwachen/) — Feb 15, 2026
-- [SolarEdge und Hoymiles parallel betreiben: Technische Umsetzung und Integration](https://alles-automatisch.de/solaredge-hoymiles-integration/) — Feb 8, 2026
-- [Home Assistant auf Proxmox installieren: Schnelle Einrichtung als VM](https://alles-automatisch.de/home-assistant-proxmox-installation-2/) — Feb 5, 2026
-- [Proxmox auf Mini-PC installieren: Schritt-für-Schritt-Anleitung](https://alles-automatisch.de/proxmox-installation-mini-pc/) — Feb 4, 2026
+<!-- BLOG-POST-LIST:START -->- [Waschmaschine und Trockner im Home Assistant Dashboard anzeigen](https://alles-automatisch.de/dashboard-haushaltsgeraete-anzeigen/?utm_source=rss&utm_medium=rss&utm_campaign=dashboard-haushaltsgeraete-anzeigen) — 000 22, 2026
+- [Home Assistant: Geräte und Automationen mit Labels, Kategorien und Bereichen organisieren](https://alles-automatisch.de/home-assistant-struktur/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-struktur) — 3030 18, 2026
+- [Waschmaschine und Co. mit WashData in Home Assistant überwachen](https://alles-automatisch.de/washdata-haushaltsgeraete-ueberwachen/?utm_source=rss&utm_medium=rss&utm_campaign=washdata-haushaltsgeraete-ueberwachen) — 000 15, 2026
+- [SolarEdge und Hoymiles parallel betreiben: Technische Umsetzung und Integration](https://alles-automatisch.de/solaredge-hoymiles-integration/?utm_source=rss&utm_medium=rss&utm_campaign=solaredge-hoymiles-integration) — 000 8, 2026
+- [Home Assistant auf Proxmox installieren: Schnelle Einrichtung als VM](https://alles-automatisch.de/home-assistant-proxmox-installation-2/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-proxmox-installation-2) — 000 5, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
