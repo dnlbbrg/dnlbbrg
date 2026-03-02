@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Waschmaschine und Trockner im Home Assistant Dashboard anzeigen](https://alles-automatisch.de/dashboard-haushaltsgeraete-anzeigen/?utm_source=rss&utm_medium=rss&utm_campaign=dashboard-haushaltsgeraete-anzeigen) — 000 22, 2026
+<!-- BLOG-POST-LIST:START -->- [Home Assistant 2026.3: Neue Bereichssteuerung für Saugroboter und Energy Dashboard im Überblick](https://alles-automatisch.de/home-assistant-bereichssteuerung-energy-dashboard/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-bereichssteuerung-energy-dashboard) — 000 1, 2026
+- [Waschmaschine und Trockner im Home Assistant Dashboard anzeigen](https://alles-automatisch.de/dashboard-haushaltsgeraete-anzeigen/?utm_source=rss&utm_medium=rss&utm_campaign=dashboard-haushaltsgeraete-anzeigen) — 000 22, 2026
 - [Home Assistant: Geräte und Automationen mit Labels, Kategorien und Bereichen organisieren](https://alles-automatisch.de/home-assistant-struktur/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-struktur) — 3030 18, 2026
 - [Waschmaschine und Co. mit WashData in Home Assistant überwachen](https://alles-automatisch.de/washdata-haushaltsgeraete-ueberwachen/?utm_source=rss&utm_medium=rss&utm_campaign=washdata-haushaltsgeraete-ueberwachen) — 000 15, 2026
 - [SolarEdge und Hoymiles parallel betreiben: Technische Umsetzung und Integration](https://alles-automatisch.de/solaredge-hoymiles-integration/?utm_source=rss&utm_medium=rss&utm_campaign=solaredge-hoymiles-integration) — 000 8, 2026
-- [Home Assistant auf Proxmox installieren: Schnelle Einrichtung als VM](https://alles-automatisch.de/home-assistant-proxmox-installation-2/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-proxmox-installation-2) — 000 5, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
