@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Home Assistant Wissensdatenbank mit Lovable erstellen: Praxisbericht](https://alles-automatisch.de/home-assistant-hilfe-lovable/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-hilfe-lovable) — 000 15, 2026
+<!-- BLOG-POST-LIST:START -->- [Claude Code installieren und Home Assistant per MCP steuern](https://alles-automatisch.de/claude-code-home-assistant/?utm_source=rss&utm_medium=rss&utm_campaign=claude-code-home-assistant) — 4949 17, 2026
+- [Home Assistant Wissensdatenbank mit Lovable erstellen: Praxisbericht](https://alles-automatisch.de/home-assistant-hilfe-lovable/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-hilfe-lovable) — 000 15, 2026
 - [Welche Smart-Home-Angebote bei Amazon wirklich lohnen](https://alles-automatisch.de/smart-home-amazon-angebote/?utm_source=rss&utm_medium=rss&utm_campaign=smart-home-amazon-angebote) — 3030 11, 2026
 - [DOOM im Home Assistant Dashboard: Installation und technische Einordnung](https://alles-automatisch.de/doom-home-assistant-integration/?utm_source=rss&utm_medium=rss&utm_campaign=doom-home-assistant-integration) — 3030 9, 2026
 - [Narwal Freo Z10 Ultra im Test: Saugroboter mit Wischfunktion und KI im Alltag](https://alles-automatisch.de/narwal-freo-z10-ultra-test/?utm_source=rss&utm_medium=rss&utm_campaign=narwal-freo-z10-ultra-test) — 000 8, 2026
-- [Smart-Home-Dashboard mit KI und React nachbauen: Technischer Erfahrungsbericht](https://alles-automatisch.de/smart-home-dashboard-ki/?utm_source=rss&utm_medium=rss&utm_campaign=smart-home-dashboard-ki) — 000 6, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
