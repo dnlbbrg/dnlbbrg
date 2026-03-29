@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Home Assistant 2026.4: Infrarot, neue Trigger und mehr](https://alles-automatisch.de/videos/home-assistant-2026-4-neuerungen) — 000 26, 2026
-- [Fließendes Dimmen mit IKEA Fernbedienung im Switch Manager](https://alles-automatisch.de/videos/ikea-fernbedienung-dimmen-switch-manager) — 000 25, 2026
-- [Garagentor-Warnung mit Home Assistant und Telegram](https://alles-automatisch.de/videos/garagentor-warnung-home-assistant-telegram) — 000 22, 2026
-- [Claude Code installieren und Home Assistant per MCP steuern](https://alles-automatisch.de/videos/claude-code-installieren-und-home-assistant-per-mcp-steuern) — 000 17, 2026
-- [Ich habe in 30 Minuten eine Home Assistant Hilfe gebaut - Home Assistant Wissensdatenbank](https://alles-automatisch.de/videos/ich-habe-in-30-minuten-eine-home-assistant-hilfe-gebaut-home-assistant-wissensdatenbank) — 000 15, 2026
+<!-- BLOG-POST-LIST:START -->- [[Config] Aufnahme starten](https://alles-automatisch.de/configs/scenes/aufnahme-starten) — 1212 28, 2026
+- [[Config] Bürobeleuchtung ausschalten](https://alles-automatisch.de/configs/scenes/buerobeleuchtung-ausschalten) — 1212 28, 2026
+- [[Config] Bürobeleuchtung einschalten](https://alles-automatisch.de/configs/scenes/buerobeleuchtung-einschalten) — 1212 28, 2026
+- [[Config] Filmabend](https://alles-automatisch.de/configs/scenes/filmabend) — 1212 28, 2026
+- [[Config] Garten Gedimmt](https://alles-automatisch.de/configs/scenes/garten-gedimmt) — 1212 28, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
