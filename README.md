@@ -83,7 +83,7 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Home Assistant Automation mit Trigger-IDs und Choose](https://alles-automatisch.de/videos/automation-trigger-choose-home-assistant) — 000 29, 2026
+<!-- BLOG-POST-LIST:START -->- [Automation mit Trigger-IDs und Choose in Home Assistant](https://alles-automatisch.de/videos/automation-trigger-choose-home-assistant) — 000 29, 2026
 - [[Config] Aufnahme starten](https://alles-automatisch.de/configs/scenes/aufnahme-starten) — 1212 28, 2026
 - [[Config] Bürobeleuchtung ausschalten](https://alles-automatisch.de/configs/scenes/buerobeleuchtung-ausschalten) — 1212 28, 2026
 - [[Config] Bürobeleuchtung einschalten](https://alles-automatisch.de/configs/scenes/buerobeleuchtung-einschalten) — 1212 28, 2026
