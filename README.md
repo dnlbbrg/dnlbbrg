@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Tibber Strompreis unavailable: Workaround für Home Assistant](https://alles-automatisch.de/videos/tibber-strompreis-unavailable-workaround) — 000 1, 2026
-- [Home Assistant Automation mit Trigger, Choose und Zeitlogik](https://alles-automatisch.de/videos/automation-trigger-choose-zeitlogik) — 000 29, 2026
-- [[Config] Aufnahme starten](https://alles-automatisch.de/configs/scenes/aufnahme-starten) — 1212 28, 2026
-- [[Config] Bürobeleuchtung ausschalten](https://alles-automatisch.de/configs/scenes/buerobeleuchtung-ausschalten) — 1212 28, 2026
-- [[Config] Bürobeleuchtung einschalten](https://alles-automatisch.de/configs/scenes/buerobeleuchtung-einschalten) — 1212 28, 2026
+<!-- BLOG-POST-LIST:START -->- [[Config] Aufnahme - Toggle Geräte](https://alles-automatisch.de/configs/automations/aufnahme-toggle-geraete) — 000 4, 2026
+- [[Config] Außenbeleuchtung: Hausbeleuchtung Dämmerung](https://alles-automatisch.de/configs/automations/aussenbeleuchtung-hausbeleuchtung-daemmerung) — 000 4, 2026
+- [[Config] Außenbeleuchtung: Haustür &lpar;CarPlay&rpar;](https://alles-automatisch.de/configs/automations/aussenbeleuchtung-haustuer-carplay) — 000 4, 2026
+- [[Config] Außenbeleuchtung: Haustürbeleuchtung ein-/ausschalten](https://alles-automatisch.de/configs/automations/aussenbeleuchtung-haustuerbeleuchtung-ein-ausschalten) — 000 4, 2026
+- [[Config] Außenbeleuchtung: Lichtschalter Terrasse](https://alles-automatisch.de/configs/automations/aussenbeleuchtung-lichtschalter-terrasse) — 000 4, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
