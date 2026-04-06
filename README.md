@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [[Config] Aufnahme - Toggle Geräte](https://alles-automatisch.de/configs/automations/aufnahme-toggle-geraete) — 000 4, 2026
+<!-- BLOG-POST-LIST:START -->- [Home Assistant Packages: Konfiguration sauber strukturieren](https://alles-automatisch.de/videos/home-assistant-packages-konfiguration) — 000 5, 2026
+- [[Config] Aufnahme - Toggle Geräte](https://alles-automatisch.de/configs/automations/aufnahme-toggle-geraete) — 000 4, 2026
 - [[Config] Außenbeleuchtung: Hausbeleuchtung Dämmerung](https://alles-automatisch.de/configs/automations/aussenbeleuchtung-hausbeleuchtung-daemmerung) — 000 4, 2026
 - [[Config] Außenbeleuchtung: Haustür &lpar;CarPlay&rpar;](https://alles-automatisch.de/configs/automations/aussenbeleuchtung-haustuer-carplay) — 000 4, 2026
 - [[Config] Außenbeleuchtung: Haustürbeleuchtung ein-/ausschalten](https://alles-automatisch.de/configs/automations/aussenbeleuchtung-haustuerbeleuchtung-ein-ausschalten) — 000 4, 2026
-- [[Config] Außenbeleuchtung: Lichtschalter Terrasse](https://alles-automatisch.de/configs/automations/aussenbeleuchtung-lichtschalter-terrasse) — 000 4, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
