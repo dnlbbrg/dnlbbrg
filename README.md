@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Das alles-automatisch.de Community-Forum ist da](https://alles-automatisch.de/videos/community-forum-alles-automatisch) — 000 21, 2026
+<!-- BLOG-POST-LIST:START -->- [Lokale KI für Home Assistant: Hardware und Modelle im Vergleich](https://alles-automatisch.de/videos/lokale-ki-home-assistant-hardware) — 000 26, 2026
+- [Das alles-automatisch.de Community-Forum ist da](https://alles-automatisch.de/videos/community-forum-alles-automatisch) — 000 21, 2026
 - [[Config] TRMNL: Dashboard Update](https://alles-automatisch.de/configs/automations/trmnl-mega-dashboard-update) — 000 21, 2026
 - [Nuki Smart Lock in Home Assistant: Setup &amp; Automationen](https://alles-automatisch.de/videos/nuki-smart-lock-home-assistant) — 000 19, 2026
 - [TRMNL E-Ink Display mit Home Assistant einrichten](https://alles-automatisch.de/videos/trmnl-eink-display-home-assistant) — 000 12, 2026
-- [Tibber Integration ersetzen: Eigenes YAML-Package für Home Assistant](https://alles-automatisch.de/videos/tibber-integration-yaml-package) — 000 10, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
