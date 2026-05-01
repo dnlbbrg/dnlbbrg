@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Lokale KI für Home Assistant: Hardware und Modelle im Vergleich](https://alles-automatisch.de/videos/lokale-ki-home-assistant-hardware) — 000 26, 2026
-- [Das alles-automatisch.de Community-Forum ist da](https://alles-automatisch.de/videos/community-forum-alles-automatisch) — 000 21, 2026
-- [[Config] TRMNL: Dashboard Update](https://alles-automatisch.de/configs/automations/trmnl-mega-dashboard-update) — 000 21, 2026
-- [Nuki Smart Lock in Home Assistant: Setup &amp; Automationen](https://alles-automatisch.de/videos/nuki-smart-lock-home-assistant) — 000 19, 2026
-- [TRMNL E-Ink Display mit Home Assistant einrichten](https://alles-automatisch.de/videos/trmnl-eink-display-home-assistant) — 000 12, 2026
+<!-- BLOG-POST-LIST:START -->- [Jackery SolarVault 3 Pro: 3 Szenarien im Test](https://alles-automatisch.de/videos/jackery-solarvault-3-pro-szenarien) — 000 30, 2026
+- [[Config] Garmin - Jahreswerte zurücksetzen](https://alles-automatisch.de/configs/automations/garmin-jahreswerte-zuruecksetzen) — 000 30, 2026
+- [[Config] Garmin - Monatswerte zurücksetzen](https://alles-automatisch.de/configs/automations/garmin-monatswerte-zuruecksetzen) — 000 30, 2026
+- [[Config] Garmin - Neue Aktivität protokollieren](https://alles-automatisch.de/configs/automations/garmin-neue-aktivitaet-protokollieren) — 000 30, 2026
+- [[Config] Klima: Adaptive Beschattung &lpar;Hitze + Blendschutz&rpar;](https://alles-automatisch.de/configs/automations/klima-adaptive-rolladen-hitze-blendschutz) — 000 30, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
