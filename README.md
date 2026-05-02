@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Jackery SolarVault 3 Pro: 3 Szenarien im Test](https://alles-automatisch.de/videos/jackery-solarvault-3-pro-szenarien) — 000 30, 2026
+<!-- BLOG-POST-LIST:START -->- [Home Assistant 2026.5: RF-Support, Dashboards und mehr](https://alles-automatisch.de/videos/home-assistant-2026-5-neuerungen) — 000 1, 2026
+- [Jackery SolarVault 3 Pro: 3 Szenarien im Test](https://alles-automatisch.de/videos/jackery-solarvault-3-pro-szenarien) — 000 30, 2026
 - [[Config] Garmin - Jahreswerte zurücksetzen](https://alles-automatisch.de/configs/automations/garmin-jahreswerte-zuruecksetzen) — 000 30, 2026
 - [[Config] Garmin - Monatswerte zurücksetzen](https://alles-automatisch.de/configs/automations/garmin-monatswerte-zuruecksetzen) — 000 30, 2026
 - [[Config] Garmin - Neue Aktivität protokollieren](https://alles-automatisch.de/configs/automations/garmin-neue-aktivitaet-protokollieren) — 000 30, 2026
-- [[Config] Klima: Adaptive Beschattung &lpar;Hitze + Blendschutz&rpar;](https://alles-automatisch.de/configs/automations/klima-adaptive-rolladen-hitze-blendschutz) — 000 30, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
