@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Ollama in Home Assistant nutzen: Geräte steuern und Fragen stellen](https://alles-automatisch.de/videos/ollama-home-assistant-nutzen) — 000 17, 2026
+<!-- BLOG-POST-LIST:START -->- [SwitchBot KI Art Frame: E-Ink Bilderrahmen im Test](https://alles-automatisch.de/videos/switchbot-ki-art-frame-test) — 000 20, 2026
+- [Ollama in Home Assistant nutzen: Geräte steuern und Fragen stellen](https://alles-automatisch.de/videos/ollama-home-assistant-nutzen) — 000 17, 2026
 - [Ollama installieren und mit Home Assistant verbinden](https://alles-automatisch.de/videos/ollama-installieren-home-assistant) — 000 10, 2026
 - [Jackery SolarVault 3 Pro in Home Assistant integrieren](https://alles-automatisch.de/videos/jackery-solarvault-home-assistant) — 000 3, 2026
 - [Home Assistant 2026.5: RF-Support, Dashboards und mehr](https://alles-automatisch.de/videos/home-assistant-2026-5-neuerungen) — 000 1, 2026
-- [Jackery SolarVault 3 Pro: 3 Szenarien im Test](https://alles-automatisch.de/videos/jackery-solarvault-3-pro-szenarien) — 000 30, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
