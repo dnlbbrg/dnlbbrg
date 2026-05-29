@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Mein Home Assistant Setup 2026: Dashboards, Automationen &amp; Apps](https://alles-automatisch.de/videos/home-assistant-setup-2026) — 000 27, 2026
+<!-- BLOG-POST-LIST:START -->- [Home Assistant 2026.6: Alle Neuerungen im Überblick](https://alles-automatisch.de/videos/home-assistant-2026-6-neuerungen) — 000 28, 2026
+- [Mein Home Assistant Setup 2026: Dashboards, Automationen &amp; Apps](https://alles-automatisch.de/videos/home-assistant-setup-2026) — 000 27, 2026
 - [KI-Bilderkennung für Kameras mit LLM Vision](https://alles-automatisch.de/videos/llm-vision-kamera-ki-erkennung) — 000 24, 2026
 - [SwitchBot KI Art Frame: E-Ink Bilderrahmen im Test](https://alles-automatisch.de/videos/switchbot-ki-art-frame-test) — 000 20, 2026
 - [Ollama in Home Assistant nutzen: Geräte steuern und Fragen stellen](https://alles-automatisch.de/videos/ollama-home-assistant-nutzen) — 000 17, 2026
-- [Ollama installieren und mit Home Assistant verbinden](https://alles-automatisch.de/videos/ollama-installieren-home-assistant) — 000 10, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
