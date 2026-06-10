@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Bubble Card für Home Assistant: alle Card-Typen erklärt](https://alles-automatisch.de/videos/bubble-card-home-assistant) — 000 7, 2026
-- [Ollama lokal für Home Assistant einrichten](https://alles-automatisch.de/videos/ollama-home-assistant-lokal) — 000 3, 2026
-- [OpenRouter in Home Assistant: Cloud-KI für 2,50 € pro Jahr](https://alles-automatisch.de/videos/openrouter-home-assistant-cloud-llm) — 000 31, 2026
-- [Home Assistant 2026.6: Alle Neuerungen im Überblick](https://alles-automatisch.de/videos/home-assistant-2026-6-neuerungen) — 000 28, 2026
-- [Mein Home Assistant Setup 2026: Dashboards, Automationen &amp; Apps](https://alles-automatisch.de/videos/home-assistant-setup-2026) — 000 27, 2026
+<!-- BLOG-POST-LIST:START -->- [[Config] E-Auto: Ladelimit Safety Reset](https://alles-automatisch.de/configs/automations/e-auto-ladelimit-safety-reset) — 000 10, 2026
+- [[Config] E-Auto: Vollladung erkannt &amp; Limit zurücksetzen](https://alles-automatisch.de/configs/automations/e-auto-vollladung-erkannt-limit-zuruecksetzen) — 000 10, 2026
+- [[Config] E-Auto: Wöchentlicher Volllade-Reset](https://alles-automatisch.de/configs/automations/e-auto-woechentlicher-volllade-reset) — 000 10, 2026
+- [[Config] E-Auto: Wöchentliches 100%-Laden aktivieren](https://alles-automatisch.de/configs/automations/e-auto-woechentliches-100-laden-aktivieren) — 000 10, 2026
+- [[Config] Energyforecast: Prognose auf heute übernehmen](https://alles-automatisch.de/configs/automations/energyforecast-prognose-auf-heute-uebernehmen) — 000 10, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
