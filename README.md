@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [myUplink Integration: Wärmepumpe in Home Assistant](https://alles-automatisch.de/videos/myuplink-waermepumpe-home-assistant) — 000 14, 2026
+<!-- BLOG-POST-LIST:START -->- [Strompreisprognose in Home Assistant mit energyforecast.de](https://alles-automatisch.de/videos/strompreisprognose-home-assistant-energyforecast) — 000 17, 2026
+- [myUplink Integration: Wärmepumpe in Home Assistant](https://alles-automatisch.de/videos/myuplink-waermepumpe-home-assistant) — 000 14, 2026
 - [S3XY Stalks: Tesla Blinkerhebel nachrüsten](https://alles-automatisch.de/videos/s3xy-stalks-tesla-blinkerhebel) — 000 10, 2026
 - [[Config] E-Auto: Ladelimit Safety Reset](https://alles-automatisch.de/configs/automations/e-auto-ladelimit-safety-reset) — 000 10, 2026
 - [[Config] E-Auto: Vollladung erkannt &amp; Limit zurücksetzen](https://alles-automatisch.de/configs/automations/e-auto-vollladung-erkannt-limit-zuruecksetzen) — 000 10, 2026
-- [[Config] E-Auto: Wöchentlicher Volllade-Reset](https://alles-automatisch.de/configs/automations/e-auto-woechentlicher-volllade-reset) — 000 10, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
