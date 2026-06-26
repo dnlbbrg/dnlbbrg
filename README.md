@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Prime Day 2026: Die besten Smart-Home-Deals für Home Assistant](https://alles-automatisch.de/videos/prime-day-2026-smart-home-deals) — 000 23, 2026
+<!-- BLOG-POST-LIST:START -->- [Home Assistant 2026.7: Neuer Automatisierungs-Editor &amp; mehr](https://alles-automatisch.de/videos/home-assistant-2026-7-neuerungen) — 000 25, 2026
+- [Prime Day 2026: Die besten Smart-Home-Deals für Home Assistant](https://alles-automatisch.de/videos/prime-day-2026-smart-home-deals) — 000 23, 2026
 - [SwitchBot Deals: 5 Angebote im Check &lpar;bis zu 44% Rabatt&rpar;](https://alles-automatisch.de/videos/switchbot-deals-angebote-home-assistant) — 000 23, 2026
 - [X-Sense Link+Pro: Rauchmelder in Home Assistant](https://alles-automatisch.de/videos/xsense-linkplus-home-assistant) — 000 21, 2026
 - [Strompreisprognose in Home Assistant mit energyforecast.de](https://alles-automatisch.de/videos/strompreisprognose-home-assistant-energyforecast) — 000 17, 2026
-- [myUplink Integration: Wärmepumpe in Home Assistant](https://alles-automatisch.de/videos/myuplink-waermepumpe-home-assistant) — 000 14, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
