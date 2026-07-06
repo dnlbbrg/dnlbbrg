@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [KWL zur Nachtauskühlung: Haus kühlen mit Home Assistant](https://alles-automatisch.de/videos/kwl-nachtauskuehlung-home-assistant) — 000 1, 2026
+<!-- BLOG-POST-LIST:START -->- [Solarzaun + 27 kWh Speicher: Ergebnis nach 5 Tagen](https://alles-automatisch.de/videos/solarzaun-batteriespeicher-ergebnis-daten) — 000 5, 2026
+- [KWL zur Nachtauskühlung: Haus kühlen mit Home Assistant](https://alles-automatisch.de/videos/kwl-nachtauskuehlung-home-assistant) — 000 1, 2026
 - [Solarzaun bauen &amp; Garagendach erweitern mit Jackery SolarVault](https://alles-automatisch.de/videos/solarzaun-garagendach-jackery-solarvault) — 000 28, 2026
 - [Midea Klimaanlage lokal in Home Assistant einbinden](https://alles-automatisch.de/videos/midea-klimaanlage-home-assistant-lokal) — 000 26, 2026
 - [Home Assistant 2026.7: Neuer Automatisierungs-Editor &amp; mehr](https://alles-automatisch.de/videos/home-assistant-2026-7-neuerungen) — 000 25, 2026
-- [Prime Day 2026: Die besten Smart-Home-Deals für Home Assistant](https://alles-automatisch.de/videos/prime-day-2026-smart-home-deals) — 000 23, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
