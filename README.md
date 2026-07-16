@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Jackery SolarVault in Home Assistant: HACS &amp; MQTT](https://alles-automatisch.de/videos/jackery-solarvault-home-assistant-mqtt) — 000 12, 2026
+<!-- BLOG-POST-LIST:START -->- [EVCC in Home Assistant: Integration, Dashboard &amp; Automationen](https://alles-automatisch.de/videos/evcc-home-assistant-integration) — 000 15, 2026
+- [Jackery SolarVault in Home Assistant: HACS &amp; MQTT](https://alles-automatisch.de/videos/jackery-solarvault-home-assistant-mqtt) — 000 12, 2026
 - [EVCC in Home Assistant: E-Auto mit PV-Überschuss laden](https://alles-automatisch.de/videos/evcc-home-assistant-pv-ueberschuss-laden) — 000 8, 2026
 - [Solarzaun + 27 kWh Speicher: Ergebnis nach 5 Tagen](https://alles-automatisch.de/videos/solarzaun-batteriespeicher-ergebnis-daten) — 000 5, 2026
 - [KWL zur Nachtauskühlung: Haus kühlen mit Home Assistant](https://alles-automatisch.de/videos/kwl-nachtauskuehlung-home-assistant) — 000 1, 2026
-- [Solarzaun bauen &amp; Garagendach erweitern mit Jackery SolarVault](https://alles-automatisch.de/videos/solarzaun-garagendach-jackery-solarvault) — 000 28, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
