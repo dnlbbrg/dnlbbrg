@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Home Assistant 2026.8: Alle Neuerungen im Überblick](https://alles-automatisch.de/videos/home-assistant-2026-8-neuerungen) — 000 12, 2026
+<!-- BLOG-POST-LIST:START -->- [HACS in Home Assistant installieren &lpar;2026&rpar;](https://alles-automatisch.de/videos/hacs-home-assistant-installieren) — 000 16, 2026
+- [Home Assistant 2026.8: Alle Neuerungen im Überblick](https://alles-automatisch.de/videos/home-assistant-2026-8-neuerungen) — 000 12, 2026
 - [Home Assistant Grundriss erstellen mit dem Floorplan Generator](https://alles-automatisch.de/videos/home-assistant-grundriss-floorplan-generator) — 000 29, 2026
 - [E-Auto wöchentlich auf 100 % laden mit evcc &amp; Home Assistant](https://alles-automatisch.de/videos/e-auto-woechentlich-volladen-evcc) — 000 26, 2026
 - [S3XY Dash im Tesla nachrüsten: Einbau und erste Eindrücke](https://alles-automatisch.de/videos/s3xy-dash-tesla-einbau) — 000 22, 2026
-- [Tesla mit EVCC und Home Assistant: myTeslaMate einrichten](https://alles-automatisch.de/videos/tesla-evcc-myteslamate-home-assistant) — 000 19, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
