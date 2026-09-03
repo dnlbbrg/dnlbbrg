@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [TRMNL X: Vier E-Ink-Screens selbst gebaut](https://alles-automatisch.de/videos/trmnl-x-screens-eink-display) — 000 30, 2026
+<!-- BLOG-POST-LIST:START -->- [Home Assistant 2026.9: Goldene Stunde, Matter-Karte und mehr](https://alles-automatisch.de/videos/home-assistant-2026-9-neuerungen) — 000 2, 2026
+- [TRMNL X: Vier E-Ink-Screens selbst gebaut](https://alles-automatisch.de/videos/trmnl-x-screens-eink-display) — 000 30, 2026
 - [Aqara P100 Multisensor in Home Assistant einrichten](https://alles-automatisch.de/videos/aqara-p100-multisensor-home-assistant) — 000 23, 2026
 - [HACS in Home Assistant installieren &lpar;2026&rpar;](https://alles-automatisch.de/videos/hacs-home-assistant-installieren) — 000 16, 2026
 - [Home Assistant 2026.8: Alle Neuerungen im Überblick](https://alles-automatisch.de/videos/home-assistant-2026-8-neuerungen) — 000 12, 2026
-- [Home Assistant Grundriss erstellen mit dem Floorplan Generator](https://alles-automatisch.de/videos/home-assistant-grundriss-floorplan-generator) — 000 29, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
