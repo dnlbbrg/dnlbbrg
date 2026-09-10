@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [[Config] Akku Gesamt Energie](https://alles-automatisch.de/configs/template-sensors/akku-gesamt-energie) — 000 8, 2026
+<!-- BLOG-POST-LIST:START -->- [5 HACS-Integrationen für Home Assistant, die wirklich was bringen](https://alles-automatisch.de/videos/hacs-integrationen-home-assistant-tipps) — 000 9, 2026
+- [[Config] Akku Gesamt Energie](https://alles-automatisch.de/configs/template-sensors/akku-gesamt-energie) — 000 8, 2026
 - [[Config] Akku Gesamt SoC](https://alles-automatisch.de/configs/template-sensors/akku-gesamt-soc) — 000 8, 2026
 - [[Config] Aktueller Wochentag](https://alles-automatisch.de/configs/template-sensors/aktueller-wochentag) — 000 8, 2026
 - [[Config] Autarkiegrad](https://alles-automatisch.de/configs/template-sensors/autarkiegrad-aktuell) — 000 8, 2026
-- [[Config] Batterieleistung aufteilen](https://alles-automatisch.de/configs/template-sensors/batterieleistung-laden-entladen-trennen) — 000 8, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
