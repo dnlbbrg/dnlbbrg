@@ -83,11 +83,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Tuya-Geräte lokal steuern: ohne Cloud, ohne Entwicklerkonto](https://alles-automatisch.de/videos/tuya-local-home-assistant) — 000 13, 2026
+<!-- BLOG-POST-LIST:START -->- [Live Activities in Home Assistant: iPhone-Sperrbildschirm](https://alles-automatisch.de/videos/home-assistant-live-activities-iphone) — 000 17, 2026
+- [Tuya-Geräte lokal steuern: ohne Cloud, ohne Entwicklerkonto](https://alles-automatisch.de/videos/tuya-local-home-assistant) — 000 13, 2026
 - [Apple Health Schlafdaten in Home Assistant nutzen](https://alles-automatisch.de/videos/apple-health-schlafdaten-home-assistant) — 000 11, 2026
 - [5 HACS-Integrationen für Home Assistant, die wirklich was bringen](https://alles-automatisch.de/videos/hacs-integrationen-home-assistant-tipps) — 000 9, 2026
 - [[Config] Akku Gesamt Energie](https://alles-automatisch.de/configs/template-sensors/akku-gesamt-energie) — 000 8, 2026
-- [[Config] Akku Gesamt SoC](https://alles-automatisch.de/configs/template-sensors/akku-gesamt-soc) — 000 8, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
