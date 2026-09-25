@@ -24,14 +24,14 @@
 
 ## About Me
 
-I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who loves building things — whether it's software, smart home setups, or photo books about abandoned places.
+I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who loves building things: software, smart home setups and photo books about abandoned places.
 
-- :computer: **Freelance Full Stack Developer** — TypeScript, React, Next.js
-- :house: **Smart Home Educator** — [alles-automatisch.de](https://alles-automatisch.de) & [YouTube](https://youtube.com/@kamerakram) (10k+ subscribers)
-- :camera: **Photographer** — specializing in Lost Places & urban exploration ([pixelgranaten.de](https://pixelgranaten.de))
-- :books: **Published Author** — 8 books on abandoned places in Germany
-- :bricks: **LEGO Enthusiast** — built [brick-storage.com](https://brick-storage.com) to track collections
-- :tv: **Featured on** ZDF, WDR, GEO Magazine, BILD & more
+- :computer: **CTO at [Octily](https://octily.com)** since 2020, plus freelance full stack work: TypeScript, React, Next.js
+- :house: **Smart Home Educator**: [alles-automatisch.de](https://alles-automatisch.de) & [YouTube](https://youtube.com/@alles-automatisch) (14.7k subscribers, 1.6M views)
+- :camera: **Photographer**: Lost Places & urban exploration on [verlasszination.de](https://verlasszination.de) and [pixelgranaten.de](https://pixelgranaten.de), photography and tech videos on [Kamerakram](https://youtube.com/@Kamerakram)
+- :books: **Published Author**: 8 photo books on abandoned places in Germany (Sutton Verlag)
+- :bricks: **LEGO Enthusiast**: built [brick-storage.com](https://brick-storage.com) to track collections
+- :tv: **Featured on** ZDF, WDR, GEO, BILD & more
 
 ---
 
@@ -49,11 +49,15 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 | | Project | Description | |
 |:-:|---------|-------------|:-:|
-| :house: | **[Alles Automatisch](https://alles-automatisch.de)** | Home Assistant tutorials, automations & smart home education platform | [![YouTube](https://img.shields.io/badge/10k+_subs-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@kamerakram) |
-| :mag: | **[Smarthome Finder](https://smarthome-finder.de)** | Smart home product discovery & comparison — find compatible devices for your ecosystem | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://smarthome-finder.de) |
-| :bricks: | **[Brick Storage](https://brick-storage.com)** | Free LEGO collection management & portfolio tracker with 20,000+ sets database | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://brick-storage.com) |
+| :house: | **[Alles Automatisch](https://alles-automatisch.de)** | Home Assistant tutorials, automations & smart home education platform | [![YouTube](https://img.shields.io/badge/14.7k_subs-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@alles-automatisch) |
+| :world_map: | **[Verlasszination](https://verlasszination.de)** | My Lost Places archive: abandoned places in Germany, stories and the books behind them | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://verlasszination.de) |
+| :bricks: | **[Brick Storage](https://brick-storage.com)** | Free LEGO collection management & portfolio tracker with 25,000+ sets | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://brick-storage.com) |
+| :fire: | **[Wortglut](https://wortglut.de)** | Daily German word game: guess the secret word, every guess gets a semantic rank | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://wortglut.de) |
+| :mag: | **[SmartHome Finder](https://smarthome-finder.com)** | Smart home product discovery & comparison: find compatible devices for your ecosystem | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://smarthome-finder.com) |
+| :moneybag: | **[SteadyCost](https://steadycost.de)** | Native macOS app for subscriptions & fixed costs, 100% offline | [![Mac App Store](https://img.shields.io/badge/Mac_App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/id6761385576) |
 | :iphone: | **[QRVisit](https://qrvisit.de)** | Free QR code generator & digital business card creator for Apple & Google Wallet | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://qrvisit.de) |
-| :camera: | **[Pixelgranaten](https://pixelgranaten.de)** | Photography blog & Lost Places documentation — online since 2010 | [![Website](https://img.shields.io/badge/Since_2010-6366F1?style=flat-square)](https://pixelgranaten.de) |
+| :black_joker: | **[Life Counter](https://life-counter.de)** | Magic: The Gathering life counter for iOS & Android, since 2019 | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://life-counter.de) |
+| :camera: | **[Pixelgranaten](https://pixelgranaten.de)** | Photography blog, online since 2010 | [![Website](https://img.shields.io/badge/Since_2010-6366F1?style=flat-square)](https://pixelgranaten.de) |
 
 ---
 
@@ -83,11 +87,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Aqara Power Plug H2 EU in Home Assistant einbinden](https://alles-automatisch.de/videos/aqara-power-plug-h2-home-assistant) — 000 23, 2026
-- [Claude Code und Home Assistant per MCP verbinden](https://alles-automatisch.de/videos/claude-code-home-assistant-mcp) — 000 20, 2026
-- [Live Activities in Home Assistant: iPhone-Sperrbildschirm](https://alles-automatisch.de/videos/home-assistant-live-activities-iphone) — 000 17, 2026
-- [Tuya-Geräte lokal steuern: ohne Cloud, ohne Entwicklerkonto](https://alles-automatisch.de/videos/tuya-local-home-assistant) — 000 13, 2026
-- [Apple Health Schlafdaten in Home Assistant nutzen](https://alles-automatisch.de/videos/apple-health-schlafdaten-home-assistant) — 000 11, 2026
+<!-- BLOG-POST-LIST:START -->- [Aqara Power Plug H2 EU in Home Assistant einbinden](https://alles-automatisch.de/videos/aqara-power-plug-h2-home-assistant)
+- [Claude Code und Home Assistant per MCP verbinden](https://alles-automatisch.de/videos/claude-code-home-assistant-mcp)
+- [Live Activities in Home Assistant: iPhone-Sperrbildschirm](https://alles-automatisch.de/videos/home-assistant-live-activities-iphone)
+- [Tuya-Geräte lokal steuern: ohne Cloud, ohne Entwicklerkonto](https://alles-automatisch.de/videos/tuya-local-home-assistant)
+- [Apple Health Schlafdaten in Home Assistant nutzen](https://alles-automatisch.de/videos/apple-health-schlafdaten-home-assistant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -97,18 +101,18 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 I've published 8 photo books documenting abandoned places across Germany, combining photography with historical research.
 
-| # | Title | Region |
-|:-:|-------|--------|
-| 1 | **Lost Places in Brandenburg** | Brandenburg |
-| 2 | **Lost Places in Nordrhein-Westfalen** | North Rhine-Westphalia |
-| 3 | **Lost Places in Ostwestfalen-Lippe** | East Westphalia-Lippe |
-| 4 | **Verlassene Orte in Niedersachsen** | Lower Saxony |
-| 5 | **Verlassene Orte im Ruhrgebiet** | Ruhr Area |
-| 6 | **Verlassene Orte in Nordrhein-Westfalen** | North Rhine-Westphalia |
-| 7 | **Verlassene Orte in Berlin** | Berlin |
-| 8 | **Verlassene Orte in Brandenburg** | Brandenburg |
+| # | Title | Year |
+|:-:|-------|:----:|
+| 1 | **Verlassene Orte in Berlin** | 2018 |
+| 2 | **Verlassene Orte in Brandenburg** | 2019 |
+| 3 | **Verlassene Orte in Nordrhein-Westfalen** | 2020 |
+| 4 | **Verlassene Orte in Niedersachsen** | 2021 |
+| 5 | **Verlassene Orte im Ruhrgebiet** | 2021 |
+| 6 | **Lost Places in Nordrhein-Westfalen** | 2025 |
+| 7 | **Lost Places in Ostwestfalen-Lippe** | 2025 |
+| 8 | **Lost Places in Brandenburg** | 2025 |
 
-> *"Verlassene Orte: Die Faszination des Verfalls"* — The Fascination of Decay
+All published by Sutton Verlag. More on [verlasszination.de/buecher](https://verlasszination.de/buecher).
 
 </details>
 
@@ -118,8 +122,8 @@ I've published 8 photo books documenting abandoned places across Germany, combin
 Featured across German national television, print media, and online publications:
 
 **Television**
-- :tv: **ZDF** — drehscheibe, hallo deutschland
-- :tv: **WDR** — Lokalzeit, WestArt
+- :tv: **ZDF**: drehscheibe, hallo deutschland
+- :tv: **WDR**: Lokalzeit, WestArt
 
 **Print & Online**
 - :newspaper: **GEO Magazine**
@@ -131,7 +135,7 @@ Featured across German national television, print media, and online publications
 - :newspaper: **Deutsche BauZeitschrift**
 - :newspaper: **Welt der Wunder**
 
-*25+ media features in total across TV, print, and digital publications.*
+*25+ media features in total across TV, print and digital publications, listed on [danielboberg.de/presse](https://danielboberg.de/presse).*
 
 </details>
 
@@ -143,7 +147,8 @@ Featured across German national television, print media, and online publications
 
 [![Website](https://img.shields.io/badge/danielboberg.de-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielboberg.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-boberg-768131a4)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kamerakram)
+[![Alles Automatisch](https://img.shields.io/badge/Alles_Automatisch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@alles-automatisch)
+[![Kamerakram](https://img.shields.io/badge/Kamerakram-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Kamerakram)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dnlbbrg)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pixelgranaten)
 
