@@ -87,11 +87,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Aqara Power Plug H2 EU in Home Assistant einbinden](https://alles-automatisch.de/videos/aqara-power-plug-h2-home-assistant)
-- [Claude Code und Home Assistant per MCP verbinden](https://alles-automatisch.de/videos/claude-code-home-assistant-mcp)
-- [Live Activities in Home Assistant: iPhone-Sperrbildschirm](https://alles-automatisch.de/videos/home-assistant-live-activities-iphone)
-- [Tuya-Geräte lokal steuern: ohne Cloud, ohne Entwicklerkonto](https://alles-automatisch.de/videos/tuya-local-home-assistant)
-- [Apple Health Schlafdaten in Home Assistant nutzen](https://alles-automatisch.de/videos/apple-health-schlafdaten-home-assistant)
+<!-- BLOG-POST-LIST:START -->- [Aqara Power Plug H2 EU in Home Assistant einbinden](https://alles-automatisch.de/videos/aqara-power-plug-h2-home-assistant) · 23.09.2026
+- [Claude Code und Home Assistant per MCP verbinden](https://alles-automatisch.de/videos/claude-code-home-assistant-mcp) · 20.09.2026
+- [Live Activities in Home Assistant: iPhone-Sperrbildschirm](https://alles-automatisch.de/videos/home-assistant-live-activities-iphone) · 17.09.2026
+- [Tuya-Geräte lokal steuern: ohne Cloud, ohne Entwicklerkonto](https://alles-automatisch.de/videos/tuya-local-home-assistant) · 13.09.2026
+- [Apple Health Schlafdaten in Home Assistant nutzen](https://alles-automatisch.de/videos/apple-health-schlafdaten-home-assistant) · 11.09.2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
