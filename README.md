@@ -87,11 +87,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Bus &amp; Bahn in Home Assistant: Abfahrten im Dashboard](https://alles-automatisch.de/videos/oepnv-abfahrten-home-assistant) · 27.09.2026
+<!-- BLOG-POST-LIST:START -->- [Home Assistant 2026.10: Neuerungen und Breaking Changes](https://alles-automatisch.de/videos/home-assistant-2026-10-neuerungen) · 01.10.2026
+- [Tuya Local: 8 häufige Fehler und wie du sie behebst](https://alles-automatisch.de/videos/tuya-local-fehler-beheben) · 30.09.2026
+- [Bus &amp; Bahn in Home Assistant: Abfahrten im Dashboard](https://alles-automatisch.de/videos/oepnv-abfahrten-home-assistant) · 27.09.2026
 - [Neue Funktionen für Kanalmitglieder bei Alles Automatisch](https://alles-automatisch.de/videos/kanalmitglieder-neue-funktionen) · 26.09.2026
 - [Aqara Power Plug H2 EU in Home Assistant einbinden](https://alles-automatisch.de/videos/aqara-power-plug-h2-home-assistant) · 23.09.2026
-- [Claude Code und Home Assistant per MCP verbinden](https://alles-automatisch.de/videos/claude-code-home-assistant-mcp) · 20.09.2026
-- [Live Activities in Home Assistant: iPhone-Sperrbildschirm](https://alles-automatisch.de/videos/home-assistant-live-activities-iphone) · 17.09.2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
