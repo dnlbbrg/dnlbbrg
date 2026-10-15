@@ -87,11 +87,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [card-mod zu UIX umstellen: Dashboard-YAML automatisch prüfen](https://alles-automatisch.de/videos/card-mod-uix-tool) · 12.10.2026
+<!-- BLOG-POST-LIST:START -->- [Toniebox 2 in Home Assistant steuern mit HA-Toniebox](https://alles-automatisch.de/videos/toniebox-home-assistant-integration) · 14.10.2026
+- [card-mod zu UIX umstellen: Dashboard-YAML automatisch prüfen](https://alles-automatisch.de/videos/card-mod-uix-tool) · 12.10.2026
 - [Home Assistant mit Claude Desktop steuern &lpar;MCP&rpar;](https://alles-automatisch.de/videos/home-assistant-claude-mcp) · 11.10.2026
 - [Prime Deal Days Tag 2: 10 Smart-Home-Deals unter 260 €](https://alles-automatisch.de/videos/prime-deal-days-2026-tag-2) · 07.10.2026
 - [Prime Deal Days 2026: Smart-Home-Deals für Home Assistant](https://alles-automatisch.de/videos/prime-deal-days-2026) · 06.10.2026
-- [UIX statt card-mod: So gelingt der Umstieg in HA](https://alles-automatisch.de/videos/uix-statt-card-mod-umstieg) · 04.10.2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
