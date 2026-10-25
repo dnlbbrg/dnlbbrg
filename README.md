@@ -87,11 +87,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Beatify: Musikquiz in Home Assistant mit Spotify einrichten](https://alles-automatisch.de/videos/beatify-musikquiz-home-assistant) · 21.10.2026
+<!-- BLOG-POST-LIST:START -->- [ha-mcp über HACS: KI baut Automationen in Home Assistant](https://alles-automatisch.de/videos/ha-mcp-hacs-home-assistant) · 25.10.2026
+- [Beatify: Musikquiz in Home Assistant mit Spotify einrichten](https://alles-automatisch.de/videos/beatify-musikquiz-home-assistant) · 21.10.2026
 - [HACS wird Marketplace: Das ändert sich in HA 2026.11](https://alles-automatisch.de/videos/hacs-marketplace-home-assistant) · 19.10.2026
 - [Tankerkönig in Home Assistant: Spritpreise als Sensor](https://alles-automatisch.de/videos/tankerkoenig-home-assistant-spritpreise) · 18.10.2026
 - [Toniebox 2 in Home Assistant steuern mit HA-Toniebox](https://alles-automatisch.de/videos/toniebox-home-assistant-integration) · 14.10.2026
-- [card-mod zu UIX umstellen: Dashboard-YAML automatisch prüfen](https://alles-automatisch.de/videos/card-mod-uix-tool) · 12.10.2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
