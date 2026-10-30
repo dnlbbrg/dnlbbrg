@@ -87,11 +87,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Tesla PNG für Home Assistant: Bilder in deiner Farbe](https://alles-automatisch.de/videos/tesla-png-generator) · 28.10.2026
+<!-- BLOG-POST-LIST:START -->- [Home Assistant 2026.11: Neuerungen und Breaking Changes](https://alles-automatisch.de/videos/home-assistant-neuerungen-marketplace) · 29.10.2026
+- [Tesla PNG für Home Assistant: Bilder in deiner Farbe](https://alles-automatisch.de/videos/tesla-png-generator) · 28.10.2026
 - [[Config] Robi fertig: Ansage + Bericht](https://alles-automatisch.de/configs/automations/robi-fertig-ansage-bericht) · 26.10.2026
 - [ha-mcp über HACS: KI baut Automationen in Home Assistant](https://alles-automatisch.de/videos/ha-mcp-hacs-home-assistant) · 25.10.2026
 - [Beatify: Musikquiz in Home Assistant mit Spotify einrichten](https://alles-automatisch.de/videos/beatify-musikquiz-home-assistant) · 21.10.2026
-- [HACS wird Marketplace: Das ändert sich in HA 2026.11](https://alles-automatisch.de/videos/hacs-marketplace-home-assistant) · 19.10.2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
