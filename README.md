@@ -87,11 +87,11 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Marketplace-Erweiterungen für Home Assistant: 5 Neuheiten](https://alles-automatisch.de/videos/marketplace-erweiterungen-home-assistant) · 11.11.2026
+<!-- BLOG-POST-LIST:START -->- [Home Assistant Connect AUX-2: Anschlüsse und Einrichtung](https://alles-automatisch.de/videos/connect-aux-2-einrichten) · 12.11.2026
+- [Marketplace-Erweiterungen für Home Assistant: 5 Neuheiten](https://alles-automatisch.de/videos/marketplace-erweiterungen-home-assistant) · 11.11.2026
 - [Home Assistant Wandtablet mit Fully Kiosk einrichten](https://alles-automatisch.de/videos/wandtablet-fully-kiosk-dashboard) · 08.11.2026
 - [Home Assistant auf dem Samsung TV: eigene Tizen-App bauen](https://alles-automatisch.de/videos/samsung-tv-dashboard-app) · 06.11.2026
 - [[Config] Telegram: Update Notification](https://alles-automatisch.de/configs/automations/telegram-update-notification) · 04.11.2026
-- [Home Assistant Voice PE einrichten: Sprachsteuerung lokal](https://alles-automatisch.de/videos/home-assistant-voice-pe-einrichten) · 01.11.2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
