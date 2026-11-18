@@ -111,7 +111,7 @@ const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
 // One header for every width: sizes are chosen so the text stays legible when GitHub scales the
 // 840 wide image down to a phone (about 0.4). GitHub rewrites the media of themed pictures when a
 // user picks a theme explicitly, so width media queries next to color-scheme ones are not safe.
-const HEADER = { w: 840, label: 24, name: 150, nameY: 186, text: 40, lh: 52, textY: 254, measure: 800, n: 14 };
+const HEADER = { w: 840, label: 24, name: 150, nameY: 186, text: 36, lh: 48, textY: 250, measure: 836, n: 14 };
 
 function header(p, t) {
   const h = p.header;
