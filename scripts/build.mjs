@@ -108,22 +108,20 @@ const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
 
 // ---- Images ---------------------------------------------------------------
 
-// Wide header for desktop, compact one (412 wide) for narrow screens.
-const HEADER = {
-  wide: { w: 840, label: 14, name: 120, nameY: 150, text: 30, lh: 40, textY: 204, measure: 620, n: 14 },
-  compact: { w: 412, label: 12, name: 70, nameY: 104, text: 21, lh: 29, textY: 144, measure: 404, n: 6 },
-};
+// One header for every width: sizes are chosen so the text stays legible when GitHub scales the
+// 840 wide image down to a phone (about 0.4). GitHub rewrites the media of themed pictures when a
+// user picks a theme explicitly, so width media queries next to color-scheme ones are not safe.
+const HEADER = { w: 840, label: 24, name: 150, nameY: 186, text: 40, lh: 52, textY: 254, measure: 800, n: 14 };
 
-function header(p, t, size = 'wide') {
+function header(p, t) {
   const h = p.header;
-  const L = HEADER[size];
+  const L = HEADER;
   const W = L.w;
-  const label = renderText(F.label(), h.label.toUpperCase(), 0, 34, L.label, t.accent, { tracking: 0.14 });
+  const label = renderText(F.label(), h.label.toUpperCase(), 0, 40, L.label, t.accent, { tracking: 0.14 });
   const name = renderText(F.display(), h.name, -L.name / 30, L.nameY, L.name, t.ink);
   // Compact: each sentence starts a new line, so no single word is left hanging.
-  const lines = size === 'compact'
-    ? h.line.split(/(?<=\.)\s+/).flatMap((sentence) => wrap(F.text(), sentence, L.text, L.measure))
-    : wrap(F.text(), h.line, L.text, L.measure);
+  // Each sentence starts a new line, so no single word is left hanging.
+  const lines = h.line.split(/(?<=\.)\s+/).flatMap((sentence) => wrap(F.text(), sentence, L.text, L.measure));
   const line = lines.map((l, i) => renderText(F.text(), l, 0, L.textY + i * L.lh, L.text, t.text)).join('');
   // The motif: a row of circuit breakers on a DIN rail, switching on one after another.
   const top = L.textY + (lines.length - 1) * L.lh + 48;
@@ -151,11 +149,13 @@ function header(p, t, size = 'wide') {
 }
 
 function section(s, t, W = 840) {
-  const index = renderText(F.label(), s.index, 0, 52, 18, t.accent, { tracking: 0.1 });
-  const title = renderText(F.label(), s.title.toUpperCase(), 44, 52, 18, t.ink, { tracking: 0.14 });
-  const tw = 44 + measure(F.label(), s.title.toUpperCase(), 18, 0.14) + 16;
-  const rule = `<rect x="0" y="0" width="${W}" height="3" fill="${t.ink}"/><path stroke="${t.hair}" d="M${tw} 46.5H${W}"/>`;
-  return svg(W, 72, rule + index + title, esc(s.title));
+  const size = 30;
+  const index = renderText(F.label(), s.index, 0, 70, size, t.accent, { tracking: 0.08 });
+  const x = measure(F.label(), s.index, size, 0.08) + 22;
+  const title = renderText(F.label(), s.title.toUpperCase(), x, 70, size, t.ink, { tracking: 0.12 });
+  const tw = x + measure(F.label(), s.title.toUpperCase(), size, 0.12) + 20;
+  const rule = `<rect x="0" y="0" width="${W}" height="3" fill="${t.ink}"/><path stroke="${t.hair}" d="M${tw} 59.5H${W}"/>`;
+  return svg(W, 96, rule + index + title, esc(s.title));
 }
 
 const CARD = 412;
@@ -202,11 +202,7 @@ export function build() {
   const moreH = Math.max(...p.more.map(moreHeight));
   for (const [theme, t] of Object.entries(THEMES)) {
     write('header', theme, header(p, t));
-    write('header-compact', theme, header(p, t, 'compact'));
-    for (const [k, s] of Object.entries(p.sections)) {
-      write(`section-${k}`, theme, section(s, t));
-      write(`section-${k}-compact`, theme, section(s, t, CARD - 12));
-    }
+    for (const [k, s] of Object.entries(p.sections)) write(`section-${k}`, theme, section(s, t));
     for (const item of p.ha) write(item.key, theme, haCard(item, t, haH));
     for (const item of p.more) write(item.key, theme, moreCard(item, t, moreH));
     for (const c of p.contact) write(c.key, theme, contactPlate(c, t));
@@ -216,22 +212,18 @@ export function build() {
 
 // ---- README -----------------------------------------------------------------
 
-const NARROW = '(max-width: 600px)';
-
-function picture(key, alt, { width, compact = false } = {}) {
+// Only color-scheme media: GitHub rewrites these to follow the viewer's GitHub theme.
+function picture(key, alt, { width } = {}) {
   const w = width ? ` width="${width}"` : ' width="100%"';
-  const narrow = compact
-    ? `<source media="${NARROW} and (prefers-color-scheme: dark)" srcset="img/${key}-compact-dark.svg"><source media="${NARROW}" srcset="img/${key}-compact-light.svg">`
-    : '';
-  return `<picture>${narrow}<source media="(prefers-color-scheme: dark)" srcset="img/${key}-dark.svg"><img src="img/${key}-light.svg" alt="${alt.replace(/"/g, '&quot;')}"${w}></picture>`;
+  return `<picture><source media="(prefers-color-scheme: dark)" srcset="img/${key}-dark.svg"><img src="img/${key}-light.svg" alt="${alt.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;')}"${w}></picture>`;
 }
 
 const link = (url, inner) => `<a href="${url}">${inner}</a>`;
 
 export function readme(p, blogBlock) {
-  const sec = (k) => `<p>${picture(`section-${k}`, p.sections[k].title, { compact: true })}</p>`;
+  const sec = (k) => `<p>${picture(`section-${k}`, p.sections[k].title, {})}</p>`;
   return [
-    `<p>${link(p.header.url, picture('header', `${p.header.name}. ${p.header.line}`, { compact: true }))}</p>`,
+    `<p>${link(p.header.url, picture('header', `${p.header.name}. ${p.header.line}`, {}))}</p>`,
     '',
     sec('ha'),
     '',

@@ -10,8 +10,7 @@ const readme = read('README.md');
 
 const imageKeys = () => [
   'header',
-  'header-compact',
-  ...Object.keys(profile.sections).flatMap((k) => [`section-${k}`, `section-${k}-compact`]),
+  ...Object.keys(profile.sections).map((k) => `section-${k}`),
   ...profile.ha.map((p) => p.key),
   ...profile.more.map((p) => p.key),
   ...profile.contact.map((c) => c.key),
@@ -84,4 +83,10 @@ test('no private material in README', () => {
 
 test('blog list starts on its own line after the start marker', () => {
   assert.match(readme, /<!-- BLOG-POST-LIST:START -->\n/);
+});
+
+test('picture sources use only color-scheme media', () => {
+  // GitHub replaces the whole media of themed sources when a viewer picks a theme explicitly,
+  // so any width condition next to a color-scheme one would break for those viewers.
+  for (const m of readme.matchAll(/<source media="([^"]+)"/g)) assert.equal(m[1], '(prefers-color-scheme: dark)');
 });

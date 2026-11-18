@@ -16,7 +16,7 @@
     {
       "key": "alles-automatisch",
       "title": "Alles Automatisch",
-      "line": "Home Assistant auf YouTube: Anleitungen und Automationen aus dem echten Zuhause. Auf der Seite dazu Werkzeuge im Browser wie YAML-Validator, Template-Tester und Grundriss-Generator.",
+      "line": "Home Assistant auf YouTube: Anleitungen Schritt für Schritt. Auf der Seite dazu Werkzeuge im Browser wie YAML-Validator, Template-Tester und Grundriss-Generator.",
       "meta": "14.700 Abos · 434 Videos",
       "url": "https://alles-automatisch.de"
     },
@@ -30,7 +30,7 @@
   ],
   "more": [
     { "key": "folnaro", "title": "Folnaro", "line": "Rechnungen und Belege auf dem Mac", "url": "https://folnaro.app/" },
-    { "key": "deixis", "title": "Deixis", "line": "Zeigen und sagen, was sich ändern soll: Plugin für Claude Code", "url": "https://github.com/dnlbbrg/deixis-plugin" },
+    { "key": "deixis", "title": "Deixis", "line": "Plugin für Claude Code zur Mac-App Deixis: zeigen und sagen, was sich ändern soll", "url": "https://github.com/dnlbbrg/deixis-plugin" },
     { "key": "brick-storage", "title": "Brick Storage", "line": "LEGO-Sammlung mit Marktwerten und Preisalarmen", "url": "https://brick-storage.com" },
     { "key": "wortglut", "title": "Wortglut", "line": "Tägliches Worträtsel: Finde das geheime Wort", "url": "https://wortglut.de" },
     { "key": "steadycost", "title": "SteadyCost", "line": "Abos und Fixkosten im Blick, Mac-App, offline", "url": "https://steadycost.de" },

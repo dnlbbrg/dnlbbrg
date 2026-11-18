@@ -7,7 +7,7 @@
   },
   "scripts": {
     "build": "node scripts/build.mjs",
-    "test": "node --test",
+    "test": "node --test --test-concurrency=1",
     "links": "node scripts/check-links.mjs"
   },
   "repository": {
@@ -21,9 +21,6 @@
   "homepage": "https://github.com/dnlbbrg/dnlbbrg#readme",
   "dependencies": {
     "opentype.js": "^2.0.0"
-  },
-  "devDependencies": {
-    "playwright": "^1.65.1"
   },
   "type": "module",
   "private": true
