@@ -10,7 +10,8 @@ const readme = read('README.md');
 
 const imageKeys = () => [
   'header',
-  ...Object.keys(profile.sections).map((k) => `section-${k}`),
+  'header-compact',
+  ...Object.keys(profile.sections).flatMap((k) => [`section-${k}`, `section-${k}-compact`]),
   ...profile.ha.map((p) => p.key),
   ...profile.more.map((p) => p.key),
   ...profile.contact.map((c) => c.key),

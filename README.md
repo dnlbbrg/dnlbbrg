@@ -1,91 +1,11 @@
-<div align="center">
+<p><a href="https://alles-automatisch.de"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="img/header-compact-dark.svg"><source media="(max-width: 600px)" srcset="img/header-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="img/header-dark.svg"><img src="img/header-light.svg" alt="Daniel Boberg. Ich zeige, wie Home Assistant im Alltag funktioniert. Dazu baue ich Werkzeuge und Apps." width="100%"></picture></a></p>
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=220&section=header&text=Daniel%20Boberg&fontSize=45&fontAlignY=33&desc=Full%20Stack%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Photographer&descAlignY=55&descSize=17&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+<p><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="img/section-ha-compact-dark.svg"><source media="(max-width: 600px)" srcset="img/section-ha-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="img/section-ha-dark.svg"><img src="img/section-ha-light.svg" alt="Home Assistant" width="100%"></picture></p>
 
-<!-- TYPING SVG -->
-<a href="https://danielboberg.de">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&height=28&lines=Full+Stack+Developer;Smart+Home+Enthusiast+%26+Educator;Published+Author+%26+Photographer;Building+cool+stuff+since+forever" alt="Typing SVG" />
-</a>
+<p><a href="https://alles-automatisch.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/alles-automatisch-dark.svg"><img src="img/alles-automatisch-light.svg" alt="Alles Automatisch: Home Assistant auf YouTube: Anleitungen und Automationen aus dem echten Zuhause. Auf der Seite dazu Werkzeuge im Browser wie YAML-Validator, Template-Tester und Grundriss-Generator." width="412"></picture></a>
+<a href="https://smarthome-finder.com"><picture><source media="(prefers-color-scheme: dark)" srcset="img/smarthome-finder-dark.svg"><img src="img/smarthome-finder-light.svg" alt="SmartHome Finder: Welches Gerät passt zu deinem System? Produktsuche und Kompatibilitätscheck für Home Assistant, Apple Home, Google Home und Alexa." width="412"></picture></a></p>
 
-<br/>
-
-<!-- BADGES -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=dnlbbrg&color=6366F1&style=flat-square&label=Profile+Views)
-&nbsp;
-[![Website](https://img.shields.io/badge/danielboberg.de-6366F1?style=flat-square&logo=googlechrome&logoColor=white)](https://danielboberg.de)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-boberg-768131a4)
-
-</div>
-
----
-
-## About Me
-
-I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who loves building things: software, smart home setups and photo books about abandoned places.
-
-- :computer: **CTO at [Octily](https://octily.com)** since 2020, plus freelance full stack work: TypeScript, React, Next.js
-- :house: **Smart Home Educator**: [alles-automatisch.de](https://alles-automatisch.de) & [YouTube](https://youtube.com/@alles-automatisch) (14.7k subscribers, 1.6M views)
-- :camera: **Photographer**: Lost Places & urban exploration on [verlasszination.de](https://verlasszination.de) and [pixelgranaten.de](https://pixelgranaten.de), photography and tech videos on [Kamerakram](https://youtube.com/@Kamerakram)
-- :books: **Published Author**: 8 photo books on abandoned places in Germany (Sutton Verlag)
-- :bricks: **LEGO Enthusiast**: built [brick-storage.com](https://brick-storage.com) to track collections
-- :tv: **Featured on** ZDF, WDR, GEO, BILD & more
-
----
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,redis,docker,vercel,git,github,linux,py,html,css,raspberrypi&theme=dark&perline=9" alt="Tech Stack" />
-</div>
-
----
-
-## Projects
-
-> Things I've built and actively maintain
-
-| | Project | Description | |
-|:-:|---------|-------------|:-:|
-| :house: | **[Alles Automatisch](https://alles-automatisch.de)** | Home Assistant tutorials, automations & smart home education platform | [![YouTube](https://img.shields.io/badge/14.7k_subs-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@alles-automatisch) |
-| :world_map: | **[Verlasszination](https://verlasszination.de)** | My Lost Places archive: abandoned places in Germany, stories and the books behind them | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://verlasszination.de) |
-| :bricks: | **[Brick Storage](https://brick-storage.com)** | Free LEGO collection management & portfolio tracker with 25,000+ sets | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://brick-storage.com) |
-| :fire: | **[Wortglut](https://wortglut.de)** | Daily German word game: guess the secret word, every guess gets a semantic rank | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://wortglut.de) |
-| :mag: | **[SmartHome Finder](https://smarthome-finder.com)** | Smart home product discovery & comparison: find compatible devices for your ecosystem | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://smarthome-finder.com) |
-| :moneybag: | **[SteadyCost](https://steadycost.de)** | Native macOS app for subscriptions & fixed costs, 100% offline | [![Mac App Store](https://img.shields.io/badge/Mac_App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/id6761385576) |
-| :iphone: | **[QRVisit](https://qrvisit.de)** | Free QR code generator & digital business card creator for Apple & Google Wallet | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://qrvisit.de) |
-| :black_joker: | **[Life Counter](https://life-counter.de)** | Magic: The Gathering life counter for iOS & Android, since 2019 | [![Website](https://img.shields.io/badge/Live-6366F1?style=flat-square)](https://life-counter.de) |
-| :camera: | **[Pixelgranaten](https://pixelgranaten.de)** | Photography blog, online since 2010 | [![Website](https://img.shields.io/badge/Since_2010-6366F1?style=flat-square)](https://pixelgranaten.de) |
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dnlbbrg&theme=transparent&hide_border=true" alt="GitHub Streak" height="180" />
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnlbbrg&bg_color=00000000&color=adbac7&line=6366F1&point=A78BFA&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dnlbbrg/dnlbbrg/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
-## Latest Blog Posts
+<p><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="img/section-videos-compact-dark.svg"><source media="(max-width: 600px)" srcset="img/section-videos-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="img/section-videos-dark.svg"><img src="img/section-videos-light.svg" alt="Neue Videos" width="100%"></picture></p>
 
 <!-- BLOG-POST-LIST:START -->- [Home Assistant Connect AUX-2 einrichten: WLAN und Box](https://alles-automatisch.de/videos/connect-aux-2-einrichten-RdSFKN) · 15.11.2026
 - [Home Assistant Connect AUX-2: Anschlüsse und Einrichtung](https://alles-automatisch.de/videos/connect-aux-2-einrichten) · 12.11.2026
@@ -94,71 +14,19 @@ I'm a developer, entrepreneur, and creative from **Bad Oeynhausen, Germany** who
 - [Home Assistant auf dem Samsung TV: eigene Tizen-App bauen](https://alles-automatisch.de/videos/samsung-tv-dashboard-app) · 06.11.2026
 <!-- BLOG-POST-LIST:END -->
 
----
+<p><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="img/section-more-compact-dark.svg"><source media="(max-width: 600px)" srcset="img/section-more-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="img/section-more-dark.svg"><img src="img/section-more-light.svg" alt="Weitere Projekte" width="100%"></picture></p>
 
-<details>
-<summary><h2>Published Books</h2></summary>
+<p><a href="https://folnaro.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/folnaro-dark.svg"><img src="img/folnaro-light.svg" alt="Folnaro: Rechnungen und Belege auf dem Mac" width="412"></picture></a>
+<a href="https://github.com/dnlbbrg/deixis-plugin"><picture><source media="(prefers-color-scheme: dark)" srcset="img/deixis-dark.svg"><img src="img/deixis-light.svg" alt="Deixis: Zeigen und sagen, was sich ändern soll: Plugin für Claude Code" width="412"></picture></a>
+<a href="https://brick-storage.com"><picture><source media="(prefers-color-scheme: dark)" srcset="img/brick-storage-dark.svg"><img src="img/brick-storage-light.svg" alt="Brick Storage: LEGO-Sammlung mit Marktwerten und Preisalarmen" width="412"></picture></a>
+<a href="https://wortglut.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/wortglut-dark.svg"><img src="img/wortglut-light.svg" alt="Wortglut: Tägliches Worträtsel: Finde das geheime Wort" width="412"></picture></a>
+<a href="https://steadycost.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/steadycost-dark.svg"><img src="img/steadycost-light.svg" alt="SteadyCost: Abos und Fixkosten im Blick, Mac-App, offline" width="412"></picture></a>
+<a href="https://qrvisit.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/qrvisit-dark.svg"><img src="img/qrvisit-light.svg" alt="QRVisit: QR-Codes und Visitenkarten für Apple und Google Wallet" width="412"></picture></a>
+<a href="https://life-counter.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/life-counter-dark.svg"><img src="img/life-counter-light.svg" alt="Life Counter: Lebenspunkte für Magic: The Gathering, iOS und Android" width="412"></picture></a></p>
 
-I've published 8 photo books documenting abandoned places across Germany, combining photography with historical research.
+<p><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="img/section-contact-compact-dark.svg"><source media="(max-width: 600px)" srcset="img/section-contact-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="img/section-contact-dark.svg"><img src="img/section-contact-light.svg" alt="Kontakt" width="100%"></picture></p>
 
-| # | Title | Year |
-|:-:|-------|:----:|
-| 1 | **Verlassene Orte in Berlin** | 2018 |
-| 2 | **Verlassene Orte in Brandenburg** | 2019 |
-| 3 | **Verlassene Orte in Nordrhein-Westfalen** | 2020 |
-| 4 | **Verlassene Orte in Niedersachsen** | 2021 |
-| 5 | **Verlassene Orte im Ruhrgebiet** | 2021 |
-| 6 | **Lost Places in Nordrhein-Westfalen** | 2025 |
-| 7 | **Lost Places in Ostwestfalen-Lippe** | 2025 |
-| 8 | **Lost Places in Brandenburg** | 2025 |
-
-All published by Sutton Verlag. More on [verlasszination.de/buecher](https://verlasszination.de/buecher).
-
-</details>
-
-<details>
-<summary><h2>Media & Press</h2></summary>
-
-Featured across German national television, print media, and online publications:
-
-**Television**
-- :tv: **ZDF**: drehscheibe, hallo deutschland
-- :tv: **WDR**: Lokalzeit, WestArt
-
-**Print & Online**
-- :newspaper: **GEO Magazine**
-- :newspaper: **BILD**
-- :newspaper: **WAZ** (Westdeutsche Allgemeine Zeitung)
-- :newspaper: **CanonFoto** Magazine
-- :newspaper: **Westfalenblatt**
-- :newspaper: **DB Mobil** (Deutsche Bahn)
-- :newspaper: **Deutsche BauZeitschrift**
-- :newspaper: **Welt der Wunder**
-
-*25+ media features in total across TV, print and digital publications, listed on [danielboberg.de/presse](https://danielboberg.de/presse).*
-
-</details>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/danielboberg.de-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielboberg.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-boberg-768131a4)
-[![Alles Automatisch](https://img.shields.io/badge/Alles_Automatisch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@alles-automatisch)
-[![Kamerakram](https://img.shields.io/badge/Kamerakram-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Kamerakram)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dnlbbrg)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pixelgranaten)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=120&section=footer" width="100%" alt="Footer" />
-
-</div>
+<p><a href="https://alles-automatisch.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/contact-site-dark.svg"><img src="img/contact-site-light.svg" alt="alles-automatisch.de"></picture></a>
+<a href="https://youtube.com/@alles-automatisch"><picture><source media="(prefers-color-scheme: dark)" srcset="img/contact-youtube-dark.svg"><img src="img/contact-youtube-light.svg" alt="YouTube"></picture></a>
+<a href="https://danielboberg.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/contact-web-dark.svg"><img src="img/contact-web-light.svg" alt="danielboberg.de"></picture></a>
+<a href="https://www.linkedin.com/in/dnlbbrg/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/contact-linkedin-dark.svg"><img src="img/contact-linkedin-light.svg" alt="LinkedIn"></picture></a></p>
