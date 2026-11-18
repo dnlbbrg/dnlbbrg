@@ -7,13 +7,12 @@
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="img/section-videos-dark.svg"><img src="img/section-videos-light.svg" alt="Neue Videos" width="100%"></picture></p>
 
-<!-- BLOG-POST-LIST:START -->
-- [Home Assistant Connect AUX-2 einrichten: WLAN und Box](https://alles-automatisch.de/videos/connect-aux-2-einrichten-RdSFKN) · 15.11.2026
-- [Home Assistant Connect AUX-2: Anschlüsse und Einrichtung](https://alles-automatisch.de/videos/connect-aux-2-einrichten) · 12.11.2026
-- [Marketplace-Erweiterungen für Home Assistant: 5 Neuheiten](https://alles-automatisch.de/videos/marketplace-erweiterungen-home-assistant) · 11.11.2026
-- [Home Assistant Wandtablet mit Fully Kiosk einrichten](https://alles-automatisch.de/videos/wandtablet-fully-kiosk-dashboard) · 08.11.2026
-- [Home Assistant auf dem Samsung TV: eigene Tizen-App bauen](https://alles-automatisch.de/videos/samsung-tv-dashboard-app) · 06.11.2026
-<!-- BLOG-POST-LIST:END -->
+<!-- VIDEOS:START -->
+<p><a href="https://alles-automatisch.de/videos/mealie-rezeptverwaltung-home-assistant"><picture><source media="(prefers-color-scheme: dark)" srcset="img/videos/mealie-rezeptverwaltung-home-assistant-dark.svg"><img src="img/videos/mealie-rezeptverwaltung-home-assistant-light.svg" alt="Video vom 18.11.2026: Mealie selbst hosten: Rezepte per Foto und Home Assistant" width="412"></picture></a>
+<a href="https://alles-automatisch.de/videos/solaredge-modbus-lokal"><picture><source media="(prefers-color-scheme: dark)" srcset="img/videos/solaredge-modbus-lokal-dark.svg"><img src="img/videos/solaredge-modbus-lokal-light.svg" alt="Video vom 17.11.2026: SolarEdge Modbus in Home Assistant: lokal statt Cloud" width="412"></picture></a>
+<a href="https://alles-automatisch.de/videos/connect-aux-2-einrichten-RdSFKN"><picture><source media="(prefers-color-scheme: dark)" srcset="img/videos/connect-aux-2-einrichten-RdSFKN-dark.svg"><img src="img/videos/connect-aux-2-einrichten-RdSFKN-light.svg" alt="Video vom 15.11.2026: Home Assistant Connect AUX-2 einrichten: WLAN und Box" width="412"></picture></a>
+<a href="https://alles-automatisch.de/videos/connect-aux-2-einrichten"><picture><source media="(prefers-color-scheme: dark)" srcset="img/videos/connect-aux-2-einrichten-dark.svg"><img src="img/videos/connect-aux-2-einrichten-light.svg" alt="Video vom 12.11.2026: Home Assistant Connect AUX-2: Anschlüsse und Einrichtung" width="412"></picture></a></p>
+<!-- VIDEOS:END -->
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="img/section-more-dark.svg"><img src="img/section-more-light.svg" alt="Weitere Projekte" width="100%"></picture></p>
 
@@ -29,5 +28,4 @@
 
 <p><a href="https://alles-automatisch.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/contact-site-dark.svg"><img src="img/contact-site-light.svg" alt="alles-automatisch.de"></picture></a>
 <a href="https://youtube.com/@alles-automatisch"><picture><source media="(prefers-color-scheme: dark)" srcset="img/contact-youtube-dark.svg"><img src="img/contact-youtube-light.svg" alt="YouTube"></picture></a>
-<a href="https://danielboberg.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/contact-web-dark.svg"><img src="img/contact-web-light.svg" alt="danielboberg.de"></picture></a>
-<a href="https://www.linkedin.com/in/dnlbbrg/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/contact-linkedin-dark.svg"><img src="img/contact-linkedin-light.svg" alt="LinkedIn"></picture></a></p>
+<a href="https://danielboberg.de"><picture><source media="(prefers-color-scheme: dark)" srcset="img/contact-web-dark.svg"><img src="img/contact-web-light.svg" alt="danielboberg.de"></picture></a></p>

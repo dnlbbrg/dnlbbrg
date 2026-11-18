@@ -58,9 +58,9 @@ test('readme references every image key in both themes', () => {
   }
 });
 
-test('readme keeps blog markers', () => {
-  assert.equal(readme.split('<!-- BLOG-POST-LIST:START -->').length - 1, 1);
-  assert.equal(readme.split('<!-- BLOG-POST-LIST:END -->').length - 1, 1);
+test('readme keeps video markers', () => {
+  assert.equal(readme.split('<!-- VIDEOS:START -->').length - 1, 1);
+  assert.equal(readme.split('<!-- VIDEOS:END -->').length - 1, 1);
 });
 
 test('readme has no stock widgets', () => {
@@ -81,8 +81,19 @@ test('no private material in README', () => {
   }
 });
 
-test('blog list starts on its own line after the start marker', () => {
-  assert.match(readme, /<!-- BLOG-POST-LIST:START -->\n/);
+test('video cards are linked and embed their thumbnails', () => {
+  const block = readme.match(/<!-- VIDEOS:START -->([\s\S]*?)<!-- VIDEOS:END -->/)[1];
+  const cards = [...block.matchAll(/img\/videos\/([a-z0-9-]+)-light\.svg/g)].map((m) => m[1]);
+  assert.ok(cards.length > 0, 'no video cards');
+  for (const slug of cards) {
+    const svg = read(`img/videos/${slug}-dark.svg`);
+    assert.doesNotMatch(svg, /<text|href="http/, slug);
+  }
+});
+
+test('no LinkedIn', () => {
+  assert.ok(!readme.toLowerCase().includes('linkedin'));
+  assert.ok(!read('content/profile.json').toLowerCase().includes('linkedin'));
 });
 
 test('picture sources use only color-scheme media', () => {

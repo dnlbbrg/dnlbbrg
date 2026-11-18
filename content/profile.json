@@ -7,10 +7,22 @@
     "url": "https://alles-automatisch.de"
   },
   "sections": {
-    "ha": { "index": "01", "title": "Home Assistant" },
-    "videos": { "index": "02", "title": "Neue Videos" },
-    "more": { "index": "03", "title": "Weitere Projekte" },
-    "contact": { "index": "04", "title": "Kontakt" }
+    "ha": {
+      "index": "01",
+      "title": "Home Assistant"
+    },
+    "videos": {
+      "index": "02",
+      "title": "Neue Videos"
+    },
+    "more": {
+      "index": "03",
+      "title": "Weitere Projekte"
+    },
+    "contact": {
+      "index": "04",
+      "title": "Kontakt"
+    }
   },
   "ha": [
     {
@@ -29,18 +41,64 @@
     }
   ],
   "more": [
-    { "key": "folnaro", "title": "Folnaro", "line": "Rechnungen und Belege auf dem Mac", "url": "https://folnaro.app/" },
-    { "key": "deixis", "title": "Deixis", "line": "Plugin für Claude Code zur Mac-App Deixis: zeigen und sagen, was sich ändern soll", "url": "https://github.com/dnlbbrg/deixis-plugin" },
-    { "key": "brick-storage", "title": "Brick Storage", "line": "LEGO-Sammlung mit Marktwerten und Preisalarmen", "url": "https://brick-storage.com" },
-    { "key": "wortglut", "title": "Wortglut", "line": "Tägliches Worträtsel: Finde das geheime Wort", "url": "https://wortglut.de" },
-    { "key": "steadycost", "title": "SteadyCost", "line": "Abos und Fixkosten im Blick, Mac-App, offline", "url": "https://steadycost.de" },
-    { "key": "qrvisit", "title": "QRVisit", "line": "QR-Codes und Visitenkarten für Apple und Google Wallet", "url": "https://qrvisit.de" },
-    { "key": "life-counter", "title": "Life Counter", "line": "Lebenspunkte für Magic: The Gathering, iOS und Android", "url": "https://life-counter.de" }
+    {
+      "key": "folnaro",
+      "title": "Folnaro",
+      "line": "Rechnungen und Belege auf dem Mac",
+      "url": "https://folnaro.app/"
+    },
+    {
+      "key": "deixis",
+      "title": "Deixis",
+      "line": "Plugin für Claude Code zur Mac-App Deixis: zeigen und sagen, was sich ändern soll",
+      "url": "https://github.com/dnlbbrg/deixis-plugin"
+    },
+    {
+      "key": "brick-storage",
+      "title": "Brick Storage",
+      "line": "LEGO-Sammlung mit Marktwerten und Preisalarmen",
+      "url": "https://brick-storage.com"
+    },
+    {
+      "key": "wortglut",
+      "title": "Wortglut",
+      "line": "Tägliches Worträtsel: Finde das geheime Wort",
+      "url": "https://wortglut.de"
+    },
+    {
+      "key": "steadycost",
+      "title": "SteadyCost",
+      "line": "Abos und Fixkosten im Blick, Mac-App, offline",
+      "url": "https://steadycost.de"
+    },
+    {
+      "key": "qrvisit",
+      "title": "QRVisit",
+      "line": "QR-Codes und Visitenkarten für Apple und Google Wallet",
+      "url": "https://qrvisit.de"
+    },
+    {
+      "key": "life-counter",
+      "title": "Life Counter",
+      "line": "Lebenspunkte für Magic: The Gathering, iOS und Android",
+      "url": "https://life-counter.de"
+    }
   ],
   "contact": [
-    { "key": "contact-site", "label": "alles-automatisch.de", "url": "https://alles-automatisch.de" },
-    { "key": "contact-youtube", "label": "YouTube", "url": "https://youtube.com/@alles-automatisch" },
-    { "key": "contact-web", "label": "danielboberg.de", "url": "https://danielboberg.de" },
-    { "key": "contact-linkedin", "label": "LinkedIn", "url": "https://www.linkedin.com/in/dnlbbrg/" }
+    {
+      "key": "contact-site",
+      "label": "alles-automatisch.de",
+      "url": "https://alles-automatisch.de"
+    },
+    {
+      "key": "contact-youtube",
+      "label": "YouTube",
+      "url": "https://youtube.com/@alles-automatisch"
+    },
+    {
+      "key": "contact-web",
+      "label": "danielboberg.de",
+      "url": "https://danielboberg.de"
+    }
   ]
 }

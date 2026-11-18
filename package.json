@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/dnlbbrg/dnlbbrg#readme",
   "dependencies": {
-    "opentype.js": "^2.0.0"
+    "opentype.js": "^2.0.0",
+    "sharp": "^0.35.5"
   },
   "type": "module",
   "private": true

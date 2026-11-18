@@ -21,7 +21,7 @@ export function loadFont(file) {
   return fontCache.get(file);
 }
 
-const F = {
+export const F = {
   text: () => loadFont('DDINRegular.ttf'),
   bold: () => loadFont('DDINDINBold.ttf'),
   display: () => loadFont('DDINCondensedDINCondensedBold.ttf'),
@@ -95,16 +95,16 @@ export function wrap(font, text, size, width) {
 }
 
 // A north-east arrow drawn as strokes (D-DIN has no arrow glyphs).
-function arrow(x, y, s, color, w = 2) {
+export function arrow(x, y, s, color, w = 2) {
   return `<path fill="none" stroke="${color}" stroke-width="${w}" stroke-linecap="square" d="M${x} ${y + s}L${x + s} ${y}M${x + s * 0.3} ${y}H${x + s}V${y + s * 0.7}"/>`;
 }
 
-function svg(width, height, body, title, extraStyle = '') {
+export function svg(width, height, body, title, extraStyle = '') {
   const style = extraStyle ? `<style>${extraStyle}</style>` : '';
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img"><title>${title}</title>${style}${body}</svg>\n`;
 }
 
-const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+export const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
 
 // ---- Images ---------------------------------------------------------------
 
@@ -158,7 +158,7 @@ function section(s, t, W = 840) {
   return svg(W, 96, rule + index + title, esc(s.title));
 }
 
-const CARD = 412;
+export const CARD = 412;
 
 function haCard(item, t, height) {
   const title = renderText(F.display(), item.title, -2, 70, 54, t.ink);
@@ -220,7 +220,7 @@ function picture(key, alt, { width } = {}) {
 
 const link = (url, inner) => `<a href="${url}">${inner}</a>`;
 
-export function readme(p, blogBlock) {
+export function readme(p, videoBlock) {
   const sec = (k) => `<p>${picture(`section-${k}`, p.sections[k].title, {})}</p>`;
   return [
     `<p>${link(p.header.url, picture('header', `${p.header.name}. ${p.header.line}`, {}))}</p>`,
@@ -231,7 +231,7 @@ export function readme(p, blogBlock) {
     '',
     sec('videos'),
     '',
-    blogBlock,
+    videoBlock,
     '',
     sec('more'),
     '',
@@ -244,17 +244,13 @@ export function readme(p, blogBlock) {
   ].join('\n');
 }
 
-// Keeps whatever the blog post workflow last wrote between its markers.
+// Keeps whatever scripts/videos.mjs last wrote between its markers.
 export function writeReadme() {
   const p = JSON.parse(fs.readFileSync(path.join(root, 'content/profile.json'), 'utf8'));
   const file = path.join(root, 'README.md');
   const current = fs.existsSync(file) ? fs.readFileSync(file, 'utf8') : '';
-  const m = current.match(/<!-- BLOG-POST-LIST:START -->[\s\S]*?<!-- BLOG-POST-LIST:END -->/);
-  // The list must start on its own line, or GitHub renders the first item as raw Markdown.
-  const block = (m ? m[0] : '<!-- BLOG-POST-LIST:START -->\n<!-- BLOG-POST-LIST:END -->').replace(
-    /<!-- BLOG-POST-LIST:START -->(?!\n)/,
-    '<!-- BLOG-POST-LIST:START -->\n',
-  );
+  const m = current.match(/<!-- VIDEOS:START -->[\s\S]*?<!-- VIDEOS:END -->/);
+  const block = m ? m[0] : '<!-- VIDEOS:START -->\n<!-- VIDEOS:END -->';
   fs.writeFileSync(file, readme(p, block));
 }
 
