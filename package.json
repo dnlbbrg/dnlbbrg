@@ -1,0 +1,30 @@
+{
+  "name": "dnlbbrg",
+  "version": "1.0.0",
+  "description": "Source of the github.com/dnlbbrg profile",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test",
+    "links": "node scripts/check-links.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnlbbrg/dnlbbrg.git"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dnlbbrg/dnlbbrg/issues"
+  },
+  "homepage": "https://github.com/dnlbbrg/dnlbbrg#readme",
+  "dependencies": {
+    "opentype.js": "^2.0.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.65.1"
+  },
+  "type": "module",
+  "private": true
+}

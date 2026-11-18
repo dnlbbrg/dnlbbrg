@@ -1,0 +1,46 @@
+{
+  "bio": "Home Assistant auf YouTube: Alles Automatisch. Dazu baue ich Werkzeuge und Apps.",
+  "header": {
+    "label": "Home Assistant · YouTube · Werkzeuge",
+    "name": "Daniel Boberg",
+    "line": "Ich zeige, wie Home Assistant im Alltag funktioniert. Dazu baue ich Werkzeuge und Apps.",
+    "url": "https://alles-automatisch.de"
+  },
+  "sections": {
+    "ha": { "index": "01", "title": "Home Assistant" },
+    "videos": { "index": "02", "title": "Neue Videos" },
+    "more": { "index": "03", "title": "Weitere Projekte" },
+    "contact": { "index": "04", "title": "Kontakt" }
+  },
+  "ha": [
+    {
+      "key": "alles-automatisch",
+      "title": "Alles Automatisch",
+      "line": "Home Assistant auf YouTube: Anleitungen und Automationen aus dem echten Zuhause. Auf der Seite dazu Werkzeuge im Browser wie YAML-Validator, Template-Tester und Grundriss-Generator.",
+      "meta": "14.700 Abos · 434 Videos",
+      "url": "https://alles-automatisch.de"
+    },
+    {
+      "key": "smarthome-finder",
+      "title": "SmartHome Finder",
+      "line": "Welches Gerät passt zu deinem System? Produktsuche und Kompatibilitätscheck für Home Assistant, Apple Home, Google Home und Alexa.",
+      "meta": "smarthome-finder.com",
+      "url": "https://smarthome-finder.com"
+    }
+  ],
+  "more": [
+    { "key": "folnaro", "title": "Folnaro", "line": "Rechnungen und Belege auf dem Mac", "url": "https://folnaro.app/" },
+    { "key": "deixis", "title": "Deixis", "line": "Zeigen und sagen, was sich ändern soll: Plugin für Claude Code", "url": "https://github.com/dnlbbrg/deixis-plugin" },
+    { "key": "brick-storage", "title": "Brick Storage", "line": "LEGO-Sammlung mit Marktwerten und Preisalarmen", "url": "https://brick-storage.com" },
+    { "key": "wortglut", "title": "Wortglut", "line": "Tägliches Worträtsel: Finde das geheime Wort", "url": "https://wortglut.de" },
+    { "key": "steadycost", "title": "SteadyCost", "line": "Abos und Fixkosten im Blick, Mac-App, offline", "url": "https://steadycost.de" },
+    { "key": "qrvisit", "title": "QRVisit", "line": "QR-Codes und Visitenkarten für Apple und Google Wallet", "url": "https://qrvisit.de" },
+    { "key": "life-counter", "title": "Life Counter", "line": "Lebenspunkte für Magic: The Gathering, iOS und Android", "url": "https://life-counter.de" }
+  ],
+  "contact": [
+    { "key": "contact-site", "label": "alles-automatisch.de", "url": "https://alles-automatisch.de" },
+    { "key": "contact-youtube", "label": "YouTube", "url": "https://youtube.com/@alles-automatisch" },
+    { "key": "contact-web", "label": "danielboberg.de", "url": "https://danielboberg.de" },
+    { "key": "contact-linkedin", "label": "LinkedIn", "url": "https://www.linkedin.com/in/dnlbbrg/" }
+  ]
+}
