@@ -120,7 +120,10 @@ function header(p, t, size = 'wide') {
   const W = L.w;
   const label = renderText(F.label(), h.label.toUpperCase(), 0, 34, L.label, t.accent, { tracking: 0.14 });
   const name = renderText(F.display(), h.name, -L.name / 30, L.nameY, L.name, t.ink);
-  const lines = wrap(F.text(), h.line, L.text, L.measure);
+  // Compact: each sentence starts a new line, so no single word is left hanging.
+  const lines = size === 'compact'
+    ? h.line.split(/(?<=\.)\s+/).flatMap((sentence) => wrap(F.text(), sentence, L.text, L.measure))
+    : wrap(F.text(), h.line, L.text, L.measure);
   const line = lines.map((l, i) => renderText(F.text(), l, 0, L.textY + i * L.lh, L.text, t.text)).join('');
   // The motif: a row of circuit breakers on a DIN rail, switching on one after another.
   const top = L.textY + (lines.length - 1) * L.lh + 48;
