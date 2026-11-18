@@ -7,7 +7,8 @@
 
 <p><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="img/section-videos-compact-dark.svg"><source media="(max-width: 600px)" srcset="img/section-videos-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="img/section-videos-dark.svg"><img src="img/section-videos-light.svg" alt="Neue Videos" width="100%"></picture></p>
 
-<!-- BLOG-POST-LIST:START -->- [Home Assistant Connect AUX-2 einrichten: WLAN und Box](https://alles-automatisch.de/videos/connect-aux-2-einrichten-RdSFKN) · 15.11.2026
+<!-- BLOG-POST-LIST:START -->
+- [Home Assistant Connect AUX-2 einrichten: WLAN und Box](https://alles-automatisch.de/videos/connect-aux-2-einrichten-RdSFKN) · 15.11.2026
 - [Home Assistant Connect AUX-2: Anschlüsse und Einrichtung](https://alles-automatisch.de/videos/connect-aux-2-einrichten) · 12.11.2026
 - [Marketplace-Erweiterungen für Home Assistant: 5 Neuheiten](https://alles-automatisch.de/videos/marketplace-erweiterungen-home-assistant) · 11.11.2026
 - [Home Assistant Wandtablet mit Fully Kiosk einrichten](https://alles-automatisch.de/videos/wandtablet-fully-kiosk-dashboard) · 08.11.2026

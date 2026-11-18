@@ -111,7 +111,7 @@ const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
 // Wide header for desktop, compact one (412 wide) for narrow screens.
 const HEADER = {
   wide: { w: 840, label: 14, name: 120, nameY: 150, text: 30, lh: 40, textY: 204, measure: 620, n: 14 },
-  compact: { w: 412, label: 12, name: 70, nameY: 104, text: 22, lh: 30, textY: 144, measure: 400, n: 7 },
+  compact: { w: 412, label: 12, name: 70, nameY: 104, text: 21, lh: 29, textY: 144, measure: 404, n: 6 },
 };
 
 function header(p, t, size = 'wide') {
@@ -255,7 +255,11 @@ export function writeReadme() {
   const file = path.join(root, 'README.md');
   const current = fs.existsSync(file) ? fs.readFileSync(file, 'utf8') : '';
   const m = current.match(/<!-- BLOG-POST-LIST:START -->[\s\S]*?<!-- BLOG-POST-LIST:END -->/);
-  const block = m ? m[0] : '<!-- BLOG-POST-LIST:START -->\n<!-- BLOG-POST-LIST:END -->';
+  // The list must start on its own line, or GitHub renders the first item as raw Markdown.
+  const block = (m ? m[0] : '<!-- BLOG-POST-LIST:START -->\n<!-- BLOG-POST-LIST:END -->').replace(
+    /<!-- BLOG-POST-LIST:START -->(?!\n)/,
+    '<!-- BLOG-POST-LIST:START -->\n',
+  );
   fs.writeFileSync(file, readme(p, block));
 }
 

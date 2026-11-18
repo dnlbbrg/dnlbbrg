@@ -81,3 +81,7 @@ test('no private material in README', () => {
     assert.ok(!readme.toLowerCase().includes(w.toLowerCase()), w);
   }
 });
+
+test('blog list starts on its own line after the start marker', () => {
+  assert.match(readme, /<!-- BLOG-POST-LIST:START -->\n/);
+});
